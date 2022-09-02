@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20220902</CreaDate><CreaTime>14061800</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process Name="Buffer" ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Analysis Tools.tbx\Buffer" Date="20220902" Time="140618">Buffer PlaceCSV_Layer "E:\QualifArcGis\Case 2\PlaceBufferModelBuilder.shp" "30 Meters" FULL ROUND NONE # PLANAR</Process></lineage></DataProperties></Esri></metadata>
